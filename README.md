@@ -4,11 +4,11 @@
 This project is a **smart soil monitoring system** that collects real-time data on **temperature, moisture, and soil nutrients (NPK)**. The data is processed by an **ATtiny85 microcontroller** and transmitted via **XBee S2C Pro (Zigbee protocol)** to a central **ESP32 hub**, which controls irrigation based on sensor thresholds.
 
 ## Features
-✅ Real-time monitoring of soil parameters (temperature, moisture, NPK levels)
-✅ Wireless communication via **XBee S2C Pro (Zigbee protocol)**
-✅ **ATtiny85-based** low-power sensor node
-✅ Central **ESP32 hub** for data processing and decision-making
-✅ Automatic irrigation control based on soil conditions
+-✅ Real-time monitoring of soil parameters (temperature, moisture, NPK levels)
+-✅ Wireless communication via **XBee S2C Pro (Zigbee protocol)**
+-✅ **ATtiny85-based** low-power sensor node
+-✅ Central **ESP32 hub** for data processing and decision-making
+-✅ Automatic irrigation control based on soil conditions
 
 ## System Architecture
 The system consists of multiple **sensor nodes** deployed in the field, each containing:
