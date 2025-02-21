@@ -25,7 +25,7 @@ The **central hub** is an **ESP32** that receives data from multiple sensor node
 | **Component**      | **Function** |
 |--------------------|-------------|
 | **LM35DZ**        | Soil temperature sensor |
-| **YL-69**         | Soil moisture sensor |
+| **YL-69 Hygromet**         | Soil moisture sensor |
 | **Soil NPK Sensor (RS485-JXBS-3001)** | Measures soil nutrients (NPK) |
 | **MAX485 Module** | Converts RS485 to UART for ATtiny85 |
 | **ATtiny85**      | Reads sensor data and transmits via Zigbee |
@@ -64,9 +64,3 @@ The circuit and PCB were designed using **EasyEDA**.
 - 🔹 Integration with **LoRa for longer-range communication**
 - 🔹 Cloud-based data storage & visualization
 - 🔹 Solar-powered sensor nodes for sustainability
-
-## Contributors
-🚀 **[Your Name]** - Hardware design, PCB layout, and firmware development
-
-## License
-📜 MIT License - Feel free to use and modify this project.
