@@ -36,7 +36,7 @@ The **central hub** is an **ESP32** that receives data from multiple sensor node
 
 ## Circuit Diagram & PCB Design
 The circuit and PCB were designed using **EasyEDA**.
-📌 **Schematic & PCB Files:** [Link to EasyEDA project]
+📌 **Schematic & PCB Files:** (https://drive.google.com/drive/folders/14WBz3sZu9YwJ4NRn9ILWmznkxLhv-tfn?usp=sharing)
 
 ## Software & Communication
 ### 1️⃣ ATtiny85 Code (Sensor Node)
